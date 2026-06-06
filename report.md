@@ -47,7 +47,7 @@ Second, two-week rolling average temperatures were calculated and displayed usin
 Figure 1 presents annual temperature anomalies for the four selected locations between 1991 and 2020. Positive values indicate years that were warmer than the long-term average for a given location, whereas negative values indicate cooler-than-average years.
 </p>
 <div align="center">
-    <img src="/Climate_Data_Project/images/01.temperature_anomaly_heatmap.png" width="900">
+    <img src="images/01.temperature_anomaly_heatmap.png" width="900">
     <p><em><strong> Figure 1.</strong> Annual temperature anomalies by location (1991–2020) </em></p>
 </div>
 <p style="text-indent: 30px;">
@@ -62,7 +62,7 @@ Figure 1 presents annual temperature anomalies for the four selected locations b
 Figure 2 displays two-week rolling average temperatures and linear trend lines for each location from 1991 to 2020. The rolling averages reveal strong seasonal fluctuations in all four locations, with temperatures increasing during summer months and decreasing during winter months. The magnitude of seasonal variation differed across locations, with Madison, WI and New York, NY showing larger annual temperature ranges than Los Angeles, CA and Austin, TX.
 </p>
 <div align="center">
-    <img src="/Climate_Data_Project/images/02.temperature_line_graph.png" width="900">
+    <img src="images/02.temperature_line_graph.png" width="900">
     <p><em><strong>Figure 2.</strong> Two-week Rolling Average Temperature and Linear Trend by Location (1991-2020) </em></p>
 </div>
 <p style="text-indent: 30px;">
